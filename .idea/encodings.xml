@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/config/global_var.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/CommonUtil.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/GetData.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/depend_data.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/excelutils.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/jsonutils.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/runmethod.py" charset="GBK" />
+  </component>
+</project>
